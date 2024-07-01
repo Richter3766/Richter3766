@@ -1,6 +1,5 @@
 ### Hello!👋
-### Please check the blog as well!
-https://richter3766.github.io/
+
 <!--
 **Richter3766/Richter3766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Richter3766's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richter3766)](https://github.com/anuraghazra/github-readme-stats)
+### Please check the blog as well!
+https://richter3766.github.io/
