@@ -1,6 +1,6 @@
 ### Hello!👋
-### Please check the blog as well
-### https://richter3766.github.io/
+### Please check the blog as well!
+https://richter3766.github.io/
 <!--
 **Richter3766/Richter3766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
